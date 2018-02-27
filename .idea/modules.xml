@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PumpkinBox.iml" filepath="$PROJECT_DIR$/.idea/PumpkinBox.iml" />
       <module fileurl="file://$PROJECT_DIR$/PumpkinBox(nonpersis).iml" filepath="$PROJECT_DIR$/PumpkinBox(nonpersis).iml" />
     </modules>
   </component>
